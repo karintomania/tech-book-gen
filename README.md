@@ -12,3 +12,7 @@ CHOKIDAR_USEPOLLING=true
 
 
 yarn add @fortawesome/free-solid-svg-icons && yarn add @fortawesome/react-fontawesome
+
+
+// deploy
+git subtree push --prefix app/build origin gh-pages

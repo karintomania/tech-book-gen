@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.2150deaa.chunk.css",
-    "main.js": "/static/js/main.e658ad33.chunk.js",
-    "main.js.map": "/static/js/main.e658ad33.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6ba6d619.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6ba6d619.js.map",
-    "static/js/2.efb8b364.chunk.js": "/static/js/2.efb8b364.chunk.js",
-    "static/js/2.efb8b364.chunk.js.map": "/static/js/2.efb8b364.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.2150deaa.chunk.css.map": "/static/css/main.2150deaa.chunk.css.map",
-    "static/js/2.efb8b364.chunk.js.LICENSE.txt": "/static/js/2.efb8b364.chunk.js.LICENSE.txt"
+    "main.css": "/tech-book-gen/static/css/main.65b9736b.chunk.css",
+    "main.js": "/tech-book-gen/static/js/main.e658ad33.chunk.js",
+    "main.js.map": "/tech-book-gen/static/js/main.e658ad33.chunk.js.map",
+    "runtime-main.js": "/tech-book-gen/static/js/runtime-main.14704046.js",
+    "runtime-main.js.map": "/tech-book-gen/static/js/runtime-main.14704046.js.map",
+    "static/js/2.efb8b364.chunk.js": "/tech-book-gen/static/js/2.efb8b364.chunk.js",
+    "static/js/2.efb8b364.chunk.js.map": "/tech-book-gen/static/js/2.efb8b364.chunk.js.map",
+    "index.html": "/tech-book-gen/index.html",
+    "static/css/main.65b9736b.chunk.css.map": "/tech-book-gen/static/css/main.65b9736b.chunk.css.map",
+    "static/js/2.efb8b364.chunk.js.LICENSE.txt": "/tech-book-gen/static/js/2.efb8b364.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6ba6d619.js",
+    "static/js/runtime-main.14704046.js",
     "static/js/2.efb8b364.chunk.js",
-    "static/css/main.2150deaa.chunk.css",
+    "static/css/main.65b9736b.chunk.css",
     "static/js/main.e658ad33.chunk.js"
   ]
 }
