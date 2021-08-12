@@ -163,7 +163,7 @@ class Preview extends React.Component{
 
   render(){
     const bgColor = this.props.color;
-    const imgSrc = `/img/${this.props.animal}.png`;
+    const imgSrc = `${process.env.PUBLIC_URL}/img/${this.props.animal}.png`;
     const author = (this.props.author.length > 0) ? this.props.author + '　著' : '';
     const title = this.props.title.replace('\\n', "\n");
     return (
