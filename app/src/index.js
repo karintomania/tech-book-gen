@@ -109,15 +109,14 @@ class App extends React.Component{
               <label> 動物: </label>
               <select onChange={this.handleAnimalChange} >
                 <option value='owl'>ふくろう</option>
+                <option value='owl2'>ふくろう 2</option>
                 <option value='armadillo'>あるまじろ</option>
                 <option value='penguin'>ぺんぎん</option>
                 <option value='crab'>かに</option>
                 <option value='horse'>うま</option>
-                <option value='horse2'>うま２</option>
+                <option value='horse2'>うま ２</option>
                 <option value='bat'>こうもり</option>
                 <option value='rat'>ねずみ</option>
-                <option value='snail'>かたつむり</option>
-                <option value='dragon'>ドラゴン</option>
               </select>
             </div>
             <div>
