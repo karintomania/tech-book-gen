@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tech-book-gen/static/css/main.65b9736b.chunk.css",
-    "main.js": "/tech-book-gen/static/js/main.e658ad33.chunk.js",
-    "main.js.map": "/tech-book-gen/static/js/main.e658ad33.chunk.js.map",
+    "main.js": "/tech-book-gen/static/js/main.2916fbbe.chunk.js",
+    "main.js.map": "/tech-book-gen/static/js/main.2916fbbe.chunk.js.map",
     "runtime-main.js": "/tech-book-gen/static/js/runtime-main.14704046.js",
     "runtime-main.js.map": "/tech-book-gen/static/js/runtime-main.14704046.js.map",
     "static/js/2.efb8b364.chunk.js": "/tech-book-gen/static/js/2.efb8b364.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.14704046.js",
     "static/js/2.efb8b364.chunk.js",
     "static/css/main.65b9736b.chunk.css",
-    "static/js/main.e658ad33.chunk.js"
+    "static/js/main.2916fbbe.chunk.js"
   ]
 }
