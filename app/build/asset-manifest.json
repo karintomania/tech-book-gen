@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tech-book-gen/static/css/main.65b9736b.chunk.css",
+    "main.css": "/tech-book-gen/static/css/main.76b763db.chunk.css",
     "main.js": "/tech-book-gen/static/js/main.b61755fe.chunk.js",
     "main.js.map": "/tech-book-gen/static/js/main.b61755fe.chunk.js.map",
     "runtime-main.js": "/tech-book-gen/static/js/runtime-main.14704046.js",
@@ -8,13 +8,13 @@
     "static/js/2.efb8b364.chunk.js": "/tech-book-gen/static/js/2.efb8b364.chunk.js",
     "static/js/2.efb8b364.chunk.js.map": "/tech-book-gen/static/js/2.efb8b364.chunk.js.map",
     "index.html": "/tech-book-gen/index.html",
-    "static/css/main.65b9736b.chunk.css.map": "/tech-book-gen/static/css/main.65b9736b.chunk.css.map",
+    "static/css/main.76b763db.chunk.css.map": "/tech-book-gen/static/css/main.76b763db.chunk.css.map",
     "static/js/2.efb8b364.chunk.js.LICENSE.txt": "/tech-book-gen/static/js/2.efb8b364.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.14704046.js",
     "static/js/2.efb8b364.chunk.js",
-    "static/css/main.65b9736b.chunk.css",
+    "static/css/main.76b763db.chunk.css",
     "static/js/main.b61755fe.chunk.js"
   ]
 }
