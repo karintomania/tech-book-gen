@@ -1,3 +1,5 @@
+// website
+https://karintomania.github.io/tech-book-gen/
 
 // Build Docker  
 $ docker-compose build  
@@ -15,4 +17,5 @@ yarn add @fortawesome/free-solid-svg-icons && yarn add @fortawesome/react-fontaw
 
 
 // deploy
+docker-compose run --rm react sh -c "npm run build"  
 git subtree push --prefix app/build origin gh-pages
