@@ -153,6 +153,9 @@ class App extends React.Component{
           />
           <button onClick={this.handleOnGenerate}>Download</button>
           </div>
+          <div className="ads" >
+            <div dangerouslySetInnerHTML={ads()} />
+          </div>
         </main>
       </>);
   }
@@ -182,6 +185,21 @@ class Preview extends React.Component{
       </div>
     );
   }
+}
+
+const ads = () => {
+  return {__html:`<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2164726777115826"
+     crossorigin="anonymous"></script>
+<!-- tech-book -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2164726777115826"
+     data-ad-slot="4250433406"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>`}
 }
 
 ReactDOM.render(

@@ -25,6 +25,7 @@ header {
 main {
 	display: flex;
 	flex-direction: column;
+	flex-wrap: wrap;
 }
 
 @media (min-width: 800px) {
@@ -176,4 +177,14 @@ img {
 #color-select option {
 	color:white;
 	padding:5px auto;
+}
+
+/* ad */
+.ads {
+	margin:10px auto;
+}
+@media (min-width: 800px) {
+  .ads {
+		margin:20px;
+  }
 }
